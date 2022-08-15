@@ -1,0 +1,15 @@
+*{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.Amans {
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+
+.chicken.two {
+    height: auto;
+    width: 200px;
+}
