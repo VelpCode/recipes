@@ -21,32 +21,13 @@
 }
 
 .mychicken {
-    background-color: skyblue;
-    border: 10px solid limegreen;
-    display:inline-block;
-    margin-top: 10px;
-    margin-right: 350px;
-    padding: 10px;
     margin-left: 10px;
-
 }
 
 .yourchicken {
-    background-color: skyblue;
-    border: 10px solid limegreen;
-    display:inline-block;
-    margin-top: 10px;
-    margin-right: 370px;
-    padding: 10px;
-    margin-left: 10px;
+    margin-left: 530px;
 }
 
 .ourchicken {
-    background-color: skyblue;
-    border: 10px solid limegreen;
-    display:inline-block;
-    margin-top: 10px;
-    margin-right: 10x;
-    padding: 10px;
-    margin-left: 10px;
+    margin-left:500px;
 }
