@@ -1,0 +1,52 @@
+*{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.Chicken.Platter {
+    font-size: 30px;
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+
+.Platter.One {
+    width:300px;
+    height:300px;
+}
+.Platter.Image{
+    text-align:center;
+    border-style:dashed;
+}
+
+.mychicken {
+    background-color: skyblue;
+    border: 10px solid limegreen;
+    display:inline-block;
+    margin-top: 10px;
+    margin-right: 350px;
+    padding: 10px;
+    margin-left: 10px;
+
+}
+
+.yourchicken {
+    background-color: skyblue;
+    border: 10px solid limegreen;
+    display:inline-block;
+    margin-top: 10px;
+    margin-right: 370px;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+.ourchicken {
+    background-color: skyblue;
+    border: 10px solid limegreen;
+    display:inline-block;
+    margin-top: 10px;
+    margin-right: 10x;
+    padding: 10px;
+    margin-left: 10px;
+}

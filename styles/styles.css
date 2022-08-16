@@ -1,15 +1,49 @@
 *{
     font-family: 'Oswald', sans-serif;
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+    box-sizing: border-box;
 }
 
 .Amans {
     text-align: center;
+    padding: 20px;
+    border: 10px solid #223213;
     background-color: black;
-    color:white;
+    color:white;    
+    margin-bottom: 20px;
+}
+
+.about {
+    margin-left: 630px;
 }
 
 .chicken.two {
-    height: auto;
     width: 200px;
+    height: 200px;
+    border: 5px solid black;
+    margin-left: 10px;
+}
+
+.beef {
+    border: 5px solid black;
+    margin-left: 350px;
+    width: 200px;
+    height:200px;
+}
+
+.lambrecipe {
+    border: 5px solid black;
+    margin-left: 350px;
+    width: 200px;
+    height: 200px;
+}
+
+
+.beefie{
+    margin-left: 20px;
+    margin-right: 390px;
+}
+.chikken {
+    margin-right: 390px;
 }
